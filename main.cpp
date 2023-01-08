@@ -5,6 +5,6 @@ using namespace std;
 
 int main() {
   string testCaseOne = "String Literal";
-  cout << testCaseOne;
+  cout << testCaseTwo;
   return 0;
 }
